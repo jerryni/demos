@@ -1,0 +1,6 @@
+{
+  "app_id": "cli_xxx",
+  "app_secret": "xxx",
+  "receive_id": "user@example.com",
+  "receive_id_type": "email"
+}
