@@ -53,4 +53,5 @@ coverage/
 
 # Misc
 *.local
-ANA/lark_config.json
+ANA/
+
